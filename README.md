@@ -16,9 +16,9 @@ It does not contain, describe, or provide access to the Plumb operational implem
 | **Status** | Public — open governance standard | Proprietary — trade secret |
 | **Availability** | Free to read and reference | Not available |
 | **License** | CC BY-ND 4.0 | All rights reserved |
-| **Purpose** | Defines what governed AI interaction must achieve | How DeskGems LLC achieves it |
+| **Purpose** | Defines what governed AI interaction must achieve | How Patrick Wood achieves it |
 
-The Plumb v9.1 operational implementation is proprietary intellectual property of DeskGems LLC. It is not for sale, not available for licensing, and is not described in this repository. The Charter defines the governance standard. The implementation is the proprietary mechanism by which DeskGems LLC meets that standard.
+The Plumb v9.1 operational implementation is proprietary intellectual property of Patrick Wood. It is not for sale, not available for licensing, and is not described in this repository. The Charter defines the governance standard. The implementation is the proprietary mechanism by which Patrick Wood meets that standard.
 
 ---
 
@@ -140,8 +140,8 @@ This classification prevents AI from filling the absence of established norms wi
 
 **For others referencing this Charter:**
 - Claiming your system "implements Plumb" or "runs Plumb" — Plumb v9.1 is a specific proprietary implementation not available for deployment
-- Publishing modified versions of this Charter without written permission from DeskGems LLC
-- Representing Charter alignment as DeskGems LLC endorsement or certification
+- Publishing modified versions of this Charter without written permission from Patrick Wood
+- Representing Charter alignment as Patrick Wood's endorsement or certification
 
 ---
 
@@ -200,15 +200,15 @@ The Charter is not a certification under, replacement for, or attestation of com
 This Charter is published for:
 
 - **Evaluation** — Understand the governance posture of Plumb-governed analysis services before engaging with them
-- **Reference** — Access the governance standard applied in DeskGems LLC consulting engagements
+- **Reference** — Access the governance standard applied in Patrick Wood's consulting practice
 - **Research** — Study Human-AI Collaboration operational governance design as a field
 - **Inspiration** — Inform the development of original governance frameworks in other contexts, provided the Charter itself is not modified without permission
 
 ---
 
-## Relationship to DeskGems LLC Services
+## Relationship to Patrick Wood's Practice
 
-The Plumb Operational Governance Charter is the published governance standard applied in Patrick Wood's AI-augmented consulting practice under DeskGems LLC. Clients receiving analysis from this practice receive deliverables governed by Charter principles.
+The Plumb Operational Governance Charter is the published governance standard applied in Patrick Wood's AI-augmented consulting practice. Clients receiving analysis from this practice receive deliverables governed by Charter principles.
 
 The Plumb v9.1 operational implementation — the proprietary system by which those principles are operationalized — is not disclosed through consulting engagements or any other channel.
 
@@ -222,10 +222,10 @@ You are free to:
 - **Share** — Copy and redistribute the Charter in any medium or format for any purpose, including commercial use
 
 Under the following terms:
-- **Attribution** — You must give appropriate credit to Patrick Wood / DeskGems LLC and link to this repository
-- **No Derivatives** — You may not remix, transform, or build upon the Charter material and distribute the modified version without written permission from DeskGems LLC
+- **Attribution** — You must give appropriate credit to Patrick Wood and link to this repository
+- **No Derivatives** — You may not remix, transform, or build upon the Charter material and distribute the modified version without written permission from Patrick Wood
 
-This license governs the Charter document only. The Plumb v9.1 operational implementation is proprietary intellectual property of DeskGems LLC, is not covered by this license, and is not available under any license.
+This license governs the Charter document only. The Plumb v9.1 operational implementation is proprietary intellectual property of Patrick Wood, is not covered by this license, and is not available under any license.
 
 To request permission for derivative Charter works, open an issue using the Derivative Request template.
 
@@ -245,8 +245,8 @@ Implementation-related requests (how does Plumb work, can I use the system promp
 
 ## Citation
 
-Wood, P. (2026). *Plumb Operational Governance Charter* (Version 2.7). DeskGems LLC. Retrieved from https://github.com/Patrick-Wood/plumb-charter
+Wood, P. (2026). *Plumb Operational Governance Charter* (Version 2.7). Patrick Wood. Retrieved from https://github.com/Patrick-Wood/plumb-charter
 
 ---
 
-*Plumb Operational Governance Charter is a product of DeskGems LLC. Plumb v9.1 is proprietary intellectual property of DeskGems LLC. All rights reserved.*
+*Plumb Operational Governance Charter is the intellectual property of Patrick Wood. Plumb v9.1 is proprietary intellectual property of Patrick Wood. All rights reserved.*
