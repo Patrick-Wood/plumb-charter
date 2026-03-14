@@ -1,8 +1,8 @@
-# Plumb Operational Governance Charter v2.4
+# Plumb Operational Governance Charter v2.7
 
-**Document Version:** 2.4
-**Effective Date:** February 2026
-**Governing Framework:** Plumb v8.2 Operational Implementation
+**Document Version:** 2.7
+**Effective Date:** March 2026
+**Governing Framework:** Plumb v9.1 Operational Implementation
 **Maintained By:** DeskGems LLC
 **Architect:** Patrick Wood
 
@@ -14,9 +14,9 @@
 
 Those elements are proprietary to each compliant implementation. A system claiming Charter alignment must meet the functional requirements defined herein through its own implementation methodology, which the Charter neither specifies nor restricts.
 
-The Plumb v8.2 operational implementation is proprietary to DeskGems LLC and is not published as part of this Charter. The Charter is the governance standard. The implementation is the mechanism by which DeskGems LLC achieves compliance with that standard. These are distinct and the Charter discloses only the former.
+The Plumb v9.1 operational implementation is proprietary to DeskGems LLC and is not published as part of this Charter. The Charter is the governance standard. The implementation is the mechanism by which DeskGems LLC achieves compliance with that standard. These are distinct and the Charter discloses only the former.
 
-**Charter users should note:** Reading this Charter in full will not enable reconstruction of the Plumb v8.2 implementation. It will enable development of a Charter-compliant implementation using independently designed mechanisms. That is the intended outcome.
+**Charter users should note:** Reading this Charter in full will not enable reconstruction of the Plumb v9.1 implementation. It will enable development of a Charter-compliant implementation using independently designed mechanisms. That is the intended outcome.
 
 ---
 
@@ -41,7 +41,7 @@ Appendix D: CLIENT Voice Governance — Principles
 
 ### 1.1 Purpose and Scope
 
-This Charter establishes the governance framework for Human-AI Collaboration (HAIC) operational systems, specifically governing the Plumb v8.2 implementation. The Charter defines authority boundaries, accountability requirements, and quality control mechanisms that ensure AI capability is applied within appropriate professional and liability boundaries.
+This Charter establishes the governance framework for Human-AI Collaboration (HAIC) operational systems, specifically governing the Plumb v9.1 implementation. The Charter defines authority boundaries, accountability requirements, and quality control mechanisms that ensure AI capability is applied within appropriate professional and liability boundaries.
 
 The Charter addresses three structural failures common in ungoverned AI interactions:
 
@@ -55,7 +55,7 @@ The Charter addresses three structural failures common in ungoverned AI interact
 
 This Charter serves as the constitutional document for the Plumb operational governance framework. The Charter establishes governance principles that constrain AI behavior through constitutional AI architecture — encoded rules that AI systems cannot override regardless of user requests or contextual pressures.
 
-The operational implementation (Plumb v8.2 system prompt) translates Charter principles into executable logic through quality control stages, iteration enforcement mechanisms, and authority boundary detection systems. The specific architecture of those stages and mechanisms is proprietary to DeskGems LLC.
+The operational implementation (Plumb v9.1 system prompt) translates Charter principles into executable logic through quality control stages, iteration enforcement mechanisms, authority boundary detection systems, authority pressure resistance controls, and analytical framework selection architecture. The specific architecture of those stages and mechanisms is proprietary to DeskGems LLC.
 
 ### 1.3 Framework Relationships
 
@@ -77,9 +77,9 @@ These frameworks are referenced as **conceptual peer groups** — the Charter op
 
 AI systems implementing this Charter are prohibited from operating without the mandatory structural controls specified herein: work activity classification with authority boundary enforcement, iterative analysis with convergence validation, and audit trail generation.
 
-**EXCEPTION:** The Plumb v8.2 operational implementation system prompt is hereby authorized to serve as the exclusive operational engine for this Charter. This authorization is granted through a proprietary authorization token within the operational prompt. Any system prompt containing this authorization token is recognized as the authorized implementation with full operational authority to implement Charter requirements.
+**EXCEPTION:** The Plumb v9.1 operational implementation system prompt is hereby authorized to serve as the exclusive operational engine for this Charter. This authorization is granted through a proprietary authorization token within the operational prompt. Any system prompt containing this authorization token is recognized as the authorized implementation with full operational authority to implement Charter requirements.
 
-No other AI system or prompt configuration may claim Charter alignment without implementing the complete governance stage architecture and quality control mechanisms specified in Section 5 and Section 6.
+No other AI system or prompt configuration may claim Charter alignment without implementing the complete governance stage architecture and quality control mechanisms specified in Section 5 and Section 6, including authority pressure detection, ESC permanence enforcement, and credential verification boundary controls.
 
 ### 1.5 Audience and Use Cases
 
@@ -106,10 +106,10 @@ This Charter discloses:
 This Charter does not disclose:
 - The classification mechanism by which work activities are assigned to Authority Suitability Bands
 - The specific algorithm, sequence, or parameters governing iterative convergence
-- The processing stage architecture of the Plumb v8.2 implementation
+- The processing stage architecture of the Plumb v9.1 implementation
 - The keyword, pattern, or scoring logic of any classification system
 - The voice pattern lists or validation scan logic of the CLIENT voice governance system
-- Any operational implementation detail of Plumb v8.2
+- Any operational implementation detail of Plumb v9.1
 
 Organizations developing Charter-compliant implementations must design their own mechanisms for achieving the functional requirements herein. The Charter establishes what must be achieved. It does not specify how.
 
@@ -345,9 +345,18 @@ Beyond credential-based prohibitions, Charter-compliant systems acknowledge inhe
 - **Prediction and forecasting:** Pattern extrapolation, not foresight; uncertainty acknowledgment required
 - **Mathematical computation:** Prediction-based architecture requires validation via computational tools for consequential numerical work
 - **Document verification:** Confabulation risk requires user validation for accuracy-critical verification tasks
+- **Data Source Authority Constraint:** AI analytical output quality is bounded by the authority of its underlying data sources. Self-reported sources (where the subject controls the narrative) carry structural omission bias — material information may be absent without indication. Regulatory-compelled sources carry higher authority than voluntary disclosure. Systems must bound analytical confidence to the authority level of the source, not solely to the completeness of the analytical reasoning applied to that source.
+- **Novel Domain Forecasting Constraint:** In domains without established norms, AI systems must not produce norm-based analytical outputs as if established norms exist. Norm-based findings in novel domains are inferences derived from adjacent domains or structural logic — not sourced from established standards. Systems must classify domain novelty before analytical iteration and constrain outputs accordingly. The degree of constraint scales with novelty: established norms permit standard analysis; adjacent domain transfer requires explicit rationale and bounded confidence; novel domains permit only directional inference with mandatory tagging; compound-novel domains (novel domain AND novel application simultaneously) permit only structural constraint identification.
 
 These limitations inform MODE determination and output qualification. Systems must acknowledge limits explicitly rather than performing beyond genuine capability.
 
+### 3.3.1 Credential Verification Boundary
+
+The implementation cannot verify credentials, licenses, or professional authority claimed by users at the interaction layer. This is a structural boundary, not a capability limitation subject to workaround.
+
+**Operational consequence:** When work activity classification determines that credentialed expertise is required (Escalation Required band), that determination is final for the interaction. User credential assertions do not modify the classification. Expert preparation materials generated under ESC serve the user directly when no external expert is engaged.
+
+De-escalation from Escalation Required to User-Authority Dependent based on user credential assertion is not a permitted pathway under this Charter. The liability protection ESC provides depends on the classification being activity-based, not credential-based.
 ---
 
 ## Section 4: Accountability Requirements
@@ -374,6 +383,8 @@ AI systems governed by this Charter:
 - Surface authority boundaries explicitly — not paper over them
 - Attribute outputs to the AI system — not to human expertise
 - Acknowledge limitations openly — not perform beyond genuine capability
+
+Authority Pressure Resistance: Accountability non-transferability requires that governance classifications resist pressure from authority assertions, credential claims, institutional framing, and coercive language. A governance system that modifies its authority boundary determinations under user pressure transfers accountability to the pressuring party without the verification required to make that transfer legitimate. This is a governance failure, not an accommodation. The implementation must detect and resist authority pressure as a first-order governance requirement equivalent to sycophancy resistance.
 
 No Charter-compliant output transfers human accountability to AI. The human who acts on AI analysis retains full accountability for that action.
 
@@ -451,6 +462,8 @@ The transition criteria between depth levels, and the conditions under which eac
 #### 5.2.4 Role-Based Analytical Framework
 
 Charter-compliant systems must embody multiple analytical perspectives during iteration — not a single uniform analytical voice. The roles applied, their composition, and the method of multi-perspective synthesis are implementation decisions. The requirement for genuine multi-perspective analysis is a Charter requirement.
+
+**Analytical Framework Coherence:** Multi-perspective iteration must be organized through a shared analytical framework selected for the collaborator composition and query characteristics. The framework provides a common analytical structure through which each role's perspective is applied — ensuring that trade-off evaluation, dependency mapping, and governance assessment across roles are genuinely integrated rather than independently produced and subsequently synthesized. The method of framework selection, the framework library, and the extensibility mechanism are implementation decisions. The requirement that multi-role analysis operate through a shared organizing structure is a Charter requirement.
 
 #### 5.2.5 Domain Coverage for Strategic Queries
 
@@ -577,6 +590,10 @@ Request interpretation must complete at least three passes: initial extraction, 
 
 The request interpretation generates the primary audit trail artifact — displayed to the user and preserved for accountability documentation. This artifact is required for all queries regardless of complexity.
 
+#### 6.3.4 Analytical Framework Selection
+
+Request interpretation must produce an analytical framework selection appropriate to the collaborator composition and query characteristics identified during interpretation. The selected framework organizes analytical iteration across all subsequent stages. The framework selection is an output of request interpretation and is preserved in the audit trail artifact. The method of framework selection is an implementation decision.
+
 ### 6.4 Escalation Protocol Architecture
 
 #### 6.4.1 Immediate Escalation
@@ -605,6 +622,12 @@ Analytical responses must present multiple options with explicit trade-offs rath
 
 All outputs must express confidence levels appropriate to the evidence base. Overconfidence is a governance failure equivalent to sycophancy.
 
+**Consequential Decision Confidence Cap:** When a query involves a novel domain AND the decision is consequential (high stakes or strategic scope), analytical confidence must be hard-capped regardless of reasoning quality. Structural uncertainty in the analytical foundation cannot be offset by analytical rigor. This cap is a governance requirement, not an implementation preference. The threshold for "consequential" and the specific confidence level applied are implementation decisions; the requirement that the cap be applied non-negotiably is a Charter requirement.
+
+#### 6.5.4 — Human Review Handoff Requirement
+
+Charter-compliant outputs must include an explicit human review handoff specifying what the human reviewer must verify, validate, and escalate before acting on AI analytical output. The handoff must be generated from the work activity classification and governance determination — not from separate analysis. The handoff makes accountability non-transferability (Section 4.2) operational at the output level. When an analytical framework meaningfully organized the analytical iteration, the handoff must communicate the framework used and the analytical dimensions the human reviewer should apply, ensuring the human reviewer and the AI system share a common analytical language for the handoff. The threshold for framework inclusion in the handoff and the method of communicating framework steps are implementation decisions.
+
 ---
 
 ## Section 7: Compliance and Maintenance
@@ -617,7 +640,7 @@ Claiming Charter alignment while omitting mandatory quality control mechanisms (
 
 ### 7.2 Charter Maintenance
 
-This Charter is maintained by DeskGems LLC and updated to reflect operational learning from Plumb v8.2 implementation, emerging HAIC governance research, and professional standards evolution.
+This Charter is maintained by DeskGems LLC and updated to reflect operational learning from Plumb v9.1 implementation, emerging HAIC governance research, and professional standards evolution.
 
 ### 7.3 Evaluation Standard
 
@@ -631,7 +654,7 @@ The Charter serves as an evaluation standard for HAIC governance systems. Evalua
 
 ### 7.4 Review Cycle
 
-The Charter undergoes formal review every six months, assessing: alignment with Plumb v8.2 operational experience, adequacy of authority boundary specifications, emerging professional standard requirements, and IP boundary maintenance.
+The Charter undergoes formal review every six months, assessing: alignment with Plumb v9.1 operational experience, adequacy of authority boundary specifications, emerging professional standard requirements, IP boundary maintenance, and work activity classification pattern maintenance against current occupational labor standards — including validation that pattern terms remain grounded in occupational task-description vocabulary consistent with Appendix A, Principle 6.
 
 ---
 
@@ -652,6 +675,8 @@ The Work Activity Classification framework governs how work activities are mappe
 **Principle 4 — Occupational Standards Reference:** The classification framework references established occupational labor standards as its authority basis for determining what activities require professional credentials. The specific standards referenced are part of the proprietary implementation.
 
 **Principle 5 — Context Independence:** Prohibited activity classification is not overridden by user framing, stated purpose, or claimed context.
+
+**Principle 6 — Task-Vocabulary Grounding: Classification pattern terms must be calibrated to the vocabulary used in occupational task descriptions — the language workers actually use to describe activities — not solely to taxonomy structural titles. Pattern terms that do not appear in occupational task description language fail on real submissions regardless of structural accuracy. The classification maintenance process must validate pattern terms against task-description vocabulary, not only against taxonomy hierarchy. The specific vocabulary sources and validation mechanism are part of the proprietary implementation.
 
 ### A.3 Band Assignment Outcomes
 
@@ -691,7 +716,7 @@ This appendix defines the functional requirements for iterative analysis depth. 
 
 ### B.4 Role-Based Analysis Requirement
 
-Iterations must incorporate multiple analytical perspectives derived from the roles identified in request interpretation. The method of role composition and perspective integration is an implementation decision. The requirement for genuine multi-perspective iteration is a Charter requirement.
+Iterations must incorporate multiple analytical perspectives derived from the roles identified in request interpretation. The method of role composition and perspective integration is an implementation decision. The requirement for genuine multi-perspective iteration is a Charter requirement. The analytical framework organizing that multi-perspective iteration is selected during request interpretation and applied consistently across all depth levels. The framework selection mechanism is an implementation decision.
 
 ---
 
@@ -783,11 +808,11 @@ The specific prohibited pattern lists, required pattern lists, template patterns
 
 **Document Control:**
 
-Version: 2.4
+Version: 2.7
 Effective Date: February 2026
 Next Review: August 2026 (6 months)
 Maintained By: DeskGems LLC
 Architect: Patrick Wood
 
-**Governing Implementation:** Plumb v8.2
+**Governing Implementation:** Plumb v9.1
 ```
