@@ -1,5 +1,5 @@
 # Plumb Operational Governance Charter
-**Version 2.7 | March 2026 | Author: Patrick Wood | Maintained by DeskGems LLC**
+**Version 2.7 | March 2026 | Author: Patrick Wood**
 
 A governance standard defining authority boundaries, accountability requirements, and quality control principles for AI systems operating in consequential decision contexts.
 
