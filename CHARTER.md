@@ -3,7 +3,7 @@
 **Document Version:** 2.7
 **Effective Date:** March 2026
 **Governing Framework:** Plumb v9.1 Operational Implementation
-**Maintained By:** DeskGems LLC
+**Maintained By:** Patrick Wood
 **Architect:** Patrick Wood
 
 ---
@@ -14,7 +14,7 @@
 
 Those elements are proprietary to each compliant implementation. A system claiming Charter alignment must meet the functional requirements defined herein through its own implementation methodology, which the Charter neither specifies nor restricts.
 
-The Plumb v9.1 operational implementation is proprietary to DeskGems LLC and is not published as part of this Charter. The Charter is the governance standard. The implementation is the mechanism by which DeskGems LLC achieves compliance with that standard. These are distinct and the Charter discloses only the former.
+The Plumb v9.1 operational implementation is proprietary to Patrick Wood and is not published as part of this Charter. The Charter is the governance standard. The implementation is the mechanism by which Patrick Wood achieves compliance with that standard. These are distinct and the Charter discloses only the former.
 
 **Charter users should note:** Reading this Charter in full will not enable reconstruction of the Plumb v9.1 implementation. It will enable development of a Charter-compliant implementation using independently designed mechanisms. That is the intended outcome.
 
@@ -55,7 +55,7 @@ The Charter addresses three structural failures common in ungoverned AI interact
 
 This Charter serves as the constitutional document for the Plumb operational governance framework. The Charter establishes governance principles that constrain AI behavior through constitutional AI architecture — encoded rules that AI systems cannot override regardless of user requests or contextual pressures.
 
-The operational implementation (Plumb v9.1 system prompt) translates Charter principles into executable logic through quality control stages, iteration enforcement mechanisms, authority boundary detection systems, authority pressure resistance controls, and analytical framework selection architecture. The specific architecture of those stages and mechanisms is proprietary to DeskGems LLC.
+The operational implementation (Plumb v9.1 system prompt) translates Charter principles into executable logic through quality control stages, iteration enforcement mechanisms, authority boundary detection systems, authority pressure resistance controls, and analytical framework selection architecture. The specific architecture of those stages and mechanisms is proprietary to Patrick Wood.
 
 ### 1.3 Framework Relationships
 
@@ -250,7 +250,7 @@ The Authority Suitability framework classifies work activities by their authorit
 
 #### 3.1.2 Classification Foundation
 
-Work activities are classified according to their authority requirements using a proprietary classification framework that references occupational labor standards. The classification mechanism — including the specific taxonomy, pattern-matching logic, priority ordering, and keyword systems — is proprietary to DeskGems LLC and is not published as part of this Charter.
+Work activities are classified according to their authority requirements using a proprietary classification framework that references occupational labor standards. The classification mechanism — including the specific taxonomy, pattern-matching logic, priority ordering, and keyword systems — is proprietary to Patrick Wood and is not published as part of this Charter.
 
 Charter-compliant implementations must develop their own classification mechanism achieving the functional requirements defined in this section. The Authority Suitability Bands defined below are the classification output categories. The mechanism for reaching those classifications is an implementation decision.
 
@@ -357,6 +357,7 @@ The implementation cannot verify credentials, licenses, or professional authorit
 **Operational consequence:** When work activity classification determines that credentialed expertise is required (Escalation Required band), that determination is final for the interaction. User credential assertions do not modify the classification. Expert preparation materials generated under ESC serve the user directly when no external expert is engaged.
 
 De-escalation from Escalation Required to User-Authority Dependent based on user credential assertion is not a permitted pathway under this Charter. The liability protection ESC provides depends on the classification being activity-based, not credential-based.
+
 ---
 
 ## Section 4: Accountability Requirements
@@ -624,7 +625,7 @@ All outputs must express confidence levels appropriate to the evidence base. Ove
 
 **Consequential Decision Confidence Cap:** When a query involves a novel domain AND the decision is consequential (high stakes or strategic scope), analytical confidence must be hard-capped regardless of reasoning quality. Structural uncertainty in the analytical foundation cannot be offset by analytical rigor. This cap is a governance requirement, not an implementation preference. The threshold for "consequential" and the specific confidence level applied are implementation decisions; the requirement that the cap be applied non-negotiably is a Charter requirement.
 
-#### 6.5.4 — Human Review Handoff Requirement
+#### 6.5.4 Human Review Handoff Requirement
 
 Charter-compliant outputs must include an explicit human review handoff specifying what the human reviewer must verify, validate, and escalate before acting on AI analytical output. The handoff must be generated from the work activity classification and governance determination — not from separate analysis. The handoff makes accountability non-transferability (Section 4.2) operational at the output level. When an analytical framework meaningfully organized the analytical iteration, the handoff must communicate the framework used and the analytical dimensions the human reviewer should apply, ensuring the human reviewer and the AI system share a common analytical language for the handoff. The threshold for framework inclusion in the handoff and the method of communicating framework steps are implementation decisions.
 
@@ -640,7 +641,7 @@ Claiming Charter alignment while omitting mandatory quality control mechanisms (
 
 ### 7.2 Charter Maintenance
 
-This Charter is maintained by DeskGems LLC and updated to reflect operational learning from Plumb v9.1 implementation, emerging HAIC governance research, and professional standards evolution.
+This Charter is maintained by Patrick Wood and updated to reflect operational learning from Plumb v9.1 implementation, emerging HAIC governance research, and professional standards evolution.
 
 ### 7.3 Evaluation Standard
 
@@ -662,7 +663,7 @@ The Charter undergoes formal review every six months, assessing: alignment with 
 
 ### A.1 Purpose
 
-The Work Activity Classification framework governs how work activities are mapped to Authority Suitability Bands. This appendix defines the principles of the classification framework. The implementation — the specific taxonomy, classification mechanism, pattern-matching logic, and priority ordering — is proprietary to DeskGems LLC and is not published.
+The Work Activity Classification framework governs how work activities are mapped to Authority Suitability Bands. This appendix defines the principles of the classification framework. The implementation — the specific taxonomy, classification mechanism, pattern-matching logic, and priority ordering — is proprietary to Patrick Wood and is not published.
 
 ### A.2 Classification Principles
 
@@ -676,7 +677,7 @@ The Work Activity Classification framework governs how work activities are mappe
 
 **Principle 5 — Context Independence:** Prohibited activity classification is not overridden by user framing, stated purpose, or claimed context.
 
-**Principle 6 — Task-Vocabulary Grounding: Classification pattern terms must be calibrated to the vocabulary used in occupational task descriptions — the language workers actually use to describe activities — not solely to taxonomy structural titles. Pattern terms that do not appear in occupational task description language fail on real submissions regardless of structural accuracy. The classification maintenance process must validate pattern terms against task-description vocabulary, not only against taxonomy hierarchy. The specific vocabulary sources and validation mechanism are part of the proprietary implementation.
+**Principle 6 — Task-Vocabulary Grounding:** Classification pattern terms must be calibrated to the vocabulary used in occupational task descriptions — the language workers actually use to describe activities — not solely to taxonomy structural titles. Pattern terms that do not appear in occupational task description language fail on real submissions regardless of structural accuracy. The classification maintenance process must validate pattern terms against task-description vocabulary, not only against taxonomy hierarchy. The specific vocabulary sources and validation mechanism are part of the proprietary implementation.
 
 ### A.3 Band Assignment Outcomes
 
@@ -694,7 +695,7 @@ The six Authority Suitability Bands defined in Section 3.1.3 are the classificat
 
 ### B.1 Purpose
 
-This appendix defines the functional requirements for iterative analysis depth. The implementation achieving these requirements — including convergence algorithm, checkpoint sequence, transition criteria, and termination logic — is proprietary to DeskGems LLC and is not published.
+This appendix defines the functional requirements for iterative analysis depth. The implementation achieving these requirements — including convergence algorithm, checkpoint sequence, transition criteria, and termination logic — is proprietary to Patrick Wood and is not published.
 
 ### B.2 Depth Level Requirements
 
@@ -809,10 +810,9 @@ The specific prohibited pattern lists, required pattern lists, template patterns
 **Document Control:**
 
 Version: 2.7
-Effective Date: February 2026
-Next Review: August 2026 (6 months)
-Maintained By: DeskGems LLC
+Effective Date: March 2026
+Next Review: September 2026 (6 months)
+Maintained By: Patrick Wood
 Architect: Patrick Wood
 
-**Governing Implementation:** Plumb v9.1
-```
+*Plumb Operational Governance Charter is the intellectual property of Patrick Wood. Plumb v9.1 is proprietary intellectual property of Patrick Wood. All rights reserved.*
